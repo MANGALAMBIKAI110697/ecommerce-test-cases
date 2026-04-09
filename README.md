@@ -1,2 +1,3 @@
-Description
-“Test cases for Facebook login page covering functional, performance, GUI, and usability testing scenarios.”
+Project Overview
+
+This repository contains manual test cases for the Facebook login page, covering multiple testing types to ensure functionality, performance, and user experience.
